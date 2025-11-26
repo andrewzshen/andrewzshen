@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - Java
 - Python
 
-# 📫 How to reach me:
+# How to reach me:
 andrewshen@ucsb.edu
